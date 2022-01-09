@@ -14,8 +14,8 @@
 using namespace std;
 
 string SERVER_HOST = "213.179.209.168";
-int SERVER_PORT = 17201;
-string gameVersion = "3.76";
+int SERVER_PORT = 17255;
+string gameVersion = "3.77";
 
 /*********  hidden vars  ********/
 struct vec2 {
