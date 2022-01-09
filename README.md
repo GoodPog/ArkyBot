@@ -10,7 +10,7 @@ You might get some vs build tool errors so use VS 2022 (mainly v143 build tools,
 
 if theres any errors just open a issue and ill help you i might not check often
 
-dart made this repository, acee, slash handle the repo with issues. because i wont be checking in on it either ways
+dart made this repository, slash handles the repo with issues. because i wont be checking in on it either ways
 
 DartOnTop
 
