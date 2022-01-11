@@ -1,3 +1,8 @@
+# Face Reveal
+
+Thank you for 10 forks! this is my face reveal
+![troll](https://cdn.discordapp.com/attachments/930150199781904535/930548785308921857/unknown.png)
+
 # arkybot
 I, dart have leaked this source code for numerous reasons one of them is, i quit gt. and the community
 And i also have lost all respect to arky so do whatever you want with the source and also fork it incase it gets termed.
@@ -17,9 +22,6 @@ dart made this repository, slash handles the repo with issues. because i wont be
 
 DartOnTop
 
-![troll](https://cdn.discordapp.com/attachments/930150199781904535/930548785308921857/unknown.png)
-
-Please dont judge
 
 if you want to join the discord server [click here](https://discord.gg/k8hDZmyZtE).
 
