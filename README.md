@@ -1,7 +1,12 @@
+
+## discord server
+https://discord.gg/dirt
+
 # Face Reveal
 
 Thank you for 10 forks! this is my face reveal
-![troll](https://cdn.discordapp.com/attachments/930150199781904535/930548785308921857/unknown.png)
+
+![penis](https://cdn.discordapp.com/attachments/930150199781904535/930548785308921857/unknown.png)
 
 # arkybot
 I, dart have leaked this source code for numerous reasons one of them is, i quit gt. and the community
