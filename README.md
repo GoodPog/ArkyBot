@@ -17,9 +17,9 @@ dart made this repository, slash handles the repo with issues. because i wont be
 
 DartOnTop
 
-![troll](https://cdn.discordapp.com/emojis/690075871322964017.webp?size=80&quality=lossless)
+![troll](https://cdn.discordapp.com/attachments/930150199781904535/930548785308921857/unknown.png)
 
-it is the trollery indeed.
+Please dont judge
 
 if you want to join the discord server [click here](https://discord.gg/k8hDZmyZtE).
 
