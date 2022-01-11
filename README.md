@@ -4,6 +4,9 @@ And i also have lost all respect to arky so do whatever you want with the source
 
 -- code refactored/fixed by slash
 
+## to github
+Arky himself, the owner of this source code has said that he doesn't care about the source code being leaked, and now he is supposedly terminating github accounts, we shouldn't be terminated because he himself said he doesn't care.
+
 ## Errors and fixes
 
 You might get some vs build tool errors so use VS 2022 (mainly v143 build tools, older have errors)
